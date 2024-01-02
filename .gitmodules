@@ -1,0 +1,19 @@
+[submodule "Libft"]
+	path = Layer_0/libft
+	url = https://github.com/pineppa/42_0_libft
+	recurse = true
+
+[submodule "Born2beroot"]
+	path = Layer_1/Born2beRoot
+	url = https://github.com/pineppa/42_1_Born2beroot
+	recurse = true
+
+[submodule "ft_printf"]
+	path = Layer_1/ft_printf
+	url = https://github.com/pineppa/42_1_FT_Printf
+	recurse = true
+
+[submodule "get_next_line"]
+	path = Layer_1/get_next_line
+	url = https://github.com/pineppa/42_1_Get_next_line
+	recurse = true
