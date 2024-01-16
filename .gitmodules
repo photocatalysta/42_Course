@@ -17,3 +17,8 @@
 	path = Layer_1/42_1_Get_next_line
 	url = https://github.com/pineppa/42_1_Get_next_line
 	recurse = true
+
+[submodule "push_swap"]
+	path = Layer_2/42_2_push_swap
+	url = https://github.com/pineppa/42_2_push_swap
+	recurse = true
