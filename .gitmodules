@@ -22,3 +22,13 @@
 	path = Layer_2/42_2_push_swap
 	url = https://github.com/pineppa/42_2_push_swap
 	recurse = true
+
+[submodule "minitalk"]
+	path = Layer_2/42_2_minitalk
+	url = https://github.com/pineppa/42_2_minitalk
+	recurse = true
+
+[submodule "so_long"]
+	path = Layer_2/42_2_so_long
+	url = https://github.com/pineppa/42_2_so_long
+	recurse = true
