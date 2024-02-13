@@ -11,3 +11,8 @@ Repository containing all the projects from the 42 Course:
 * [Born 2 Be Root](https://github.com/pineppa/42_1_Born2beRoot)
 * [Get next line](https://github.com/pineppa/42_1_Get_next_line)
 * [Printf](https://github.com/pineppa/42_1_Printf)
+
+## Layer 2
+* [Minitalk](https://github.com/pineppa/42_2_minitalk)
+* Push Swap - In progress
+* So long - In progress

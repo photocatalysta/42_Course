@@ -40,7 +40,7 @@ Each line is a word in the sentence, separated by a double space:
 
 ### 42.1 - ft_printf
 
-#### Original message
+#### Original message --> Try "Moving bits / bytes
 
 > ++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>.>---.++++++++++++.++.+++
 +++.--.<<++.>>------.------------.+++++++++++++.<<.>>++++++.------------
