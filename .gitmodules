@@ -34,6 +34,6 @@
 	recurse = true
 
 [submodule "minishell"]
-	path = Layer_2/42_3_minishell
+	path = Layer_3/42_3_minishell
 	url = https://github.com/pineppa/42_3_minishell
 	recurse = true
