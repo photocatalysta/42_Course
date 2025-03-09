@@ -32,3 +32,8 @@
 	path = Layer_2/42_2_so_long
 	url = https://github.com/pineppa/42_2_so_long
 	recurse = true
+
+[submodule "minishell"]
+	path = Layer_2/42_3_minishell
+	url = https://github.com/pineppa/42_3_minishell
+	recurse = true
