@@ -1,39 +1,44 @@
 [submodule "Libft"]
 	path = Layer_0/42_0_libft
-	url = https://github.com/pineppa/42_0_libft
+	url = https://github.com/photocatalysta/42_0_libft
 	recurse = true
 
 [submodule "Born2beroot"]
 	path = Layer_1/42_1_Born2beRoot
-	url = https://github.com/pineppa/42_1_Born2beroot
+	url = https://github.com/photocatalysta/42_1_Born2beroot
 	recurse = true
 
 [submodule "ft_printf"]
 	path = Layer_1/42_1_FT_Printf
-	url = https://github.com/pineppa/42_1_FT_Printf
+	url = https://github.com/photocatalysta/42_1_FT_Printf
 	recurse = true
 
 [submodule "get_next_line"]
 	path = Layer_1/42_1_Get_next_line
-	url = https://github.com/pineppa/42_1_Get_next_line
+	url = https://github.com/photocatalysta/42_1_Get_next_line
 	recurse = true
 
 [submodule "push_swap"]
 	path = Layer_2/42_2_push_swap
-	url = https://github.com/pineppa/42_2_push_swap
+	url = https://github.com/photocatalysta/42_2_push_swap
 	recurse = true
 
 [submodule "minitalk"]
 	path = Layer_2/42_2_minitalk
-	url = https://github.com/pineppa/42_2_minitalk
+	url = https://github.com/photocatalysta/42_2_minitalk
 	recurse = true
 
 [submodule "so_long"]
 	path = Layer_2/42_2_so_long
-	url = https://github.com/pineppa/42_2_so_long
+	url = https://github.com/photocatalysta/42_2_so_long
 	recurse = true
 
 [submodule "minishell"]
 	path = Layer_3/42_3_minishell
-	url = https://github.com/pineppa/42_3_minishell
+	url = https://github.com/photocatalysta/42_3_minishell
+	recurse = true
+
+[submodule "philosophers"]
+	path = Layer_3/42_3_Philosophers
+	url = https://github.com/photocatalysta/42_3_Philosophers
 	recurse = true
