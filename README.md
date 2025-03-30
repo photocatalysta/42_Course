@@ -6,7 +6,7 @@ Repository containing all the projects from the 42 Course:
 
 ## Layer 0
 
-### :books: :octocat: [Libft](https://github.com/photocatalysta/42_0_libft) :octocat:
+### :books: [Libft](https://github.com/photocatalysta/42_0_libft)
 
 A library containing my own version of basic C function. They do not require any external functions and are supposed to be reused throughout the rest of the projects:
 
@@ -36,40 +36,39 @@ A library containing my own version of basic C function. They do not require any
 
 ## Layer 1
 
-### :computer: :octocat: [Born 2 Be Root](https://github.com/photocatalysta/42_Course/tree/main/Layer_1/42_1_Born2beRoot) :octocat:
+### :computer: [Born 2 Be Root](https://github.com/photocatalysta/42_Course/tree/main/Layer_1/42_1_Born2beRoot)
 
 Set up your first server by following specific rules specified in the PDF. This is made to learn how a basic Linux - Debian system works
 
-### :book: [Get next line](https://github.com/photocatalysta/42_1_Get_next_line) :octocat:
+### :book: [Get next line](https://github.com/photocatalysta/42_1_Get_next_line)
 
 This set of functions allows to read a part of a file to return the next line of a file, given its file descriptor. The bonus part allows to manage a series of different file descriptors.
 
-### :black_nib: :octocat: [Printf](https://github.com/photocatalysta/42_1_Printf) :octocat:
+### :black_nib: [Printf](https://github.com/photocatalysta/42_1_Printf)
 
 Because putchar, putstr and putnbr are not enough. Reproduces the basic function of printf()
 
 ## Layer 2
 
-### :microphone: :speaker: :octocat: [Minitalk](https://github.com/photocatalysta/42_2_minitalk) :octocat:
+### :microphone: :speaker: [Minitalk](https://github.com/photocatalysta/42_2_minitalk)
 
 A small conversation between a client and a server, through bitwise signals 
 
-### :recycle: :octocat: [Push Swap](https://github.com/photocatalysta/42_2_push_swap) :octocat:
+### :recycle: [Push Swap](https://github.com/photocatalysta/42_2_push_swap)
 
 Sorts data on a stack, with a limited set of instructions, using the lowest possible number of actions. 
 
-### :boy: :european_castle: :princess: :octocat: [So long](https://github.com/photocatalysta/42_2_so_long) :octocat:
+### :boy: :european_castle: :princess: [So long](https://github.com/photocatalysta/42_2_so_long)
 
 So long (and thanks for all the fish) is a very small 2D game with the purpose to make you work with textures, sprites, and some other very basic gameplay elements.
 
 ## Layer 3
 
-
-### :octocat: [Minishell](https://github.com/photocatalysta/42_3_minishell) :octocat:
+### :shell: [Minishell](https://github.com/photocatalysta/42_3_minishell)
 
 The objective of this project is for you to create a simple shell.
 
-### :octocat: Philosophers - Incomplete
+### :older_man: Philosophers - Incomplete
 
 This is a final C project that complements minishell. It is an implementation of the famous [Dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) where `N` philosophers sit at a table with `N` forks. To be able to eat they are required to have 2 forks in their hand and must do this without talking to each others. This exercise focuses on improving the knowledge in regards to `deadlocks` and `race conditions` 
 
