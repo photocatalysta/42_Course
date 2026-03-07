@@ -1,44 +1,28 @@
-[submodule "Libft"]
-	path = Layer_0/42_0_libft
-	url = https://github.com/photocatalysta/42_0_libft
-	recurse = true
-
-[submodule "Born2beroot"]
-	path = Layer_1/42_1_Born2beRoot
-	url = https://github.com/photocatalysta/42_1_Born2beroot
-	recurse = true
-
-[submodule "ft_printf"]
-	path = Layer_1/42_1_FT_Printf
-	url = https://github.com/photocatalysta/42_1_FT_Printf
-	recurse = true
-
-[submodule "get_next_line"]
-	path = Layer_1/42_1_Get_next_line
-	url = https://github.com/photocatalysta/42_1_Get_next_line
-	recurse = true
-
-[submodule "push_swap"]
-	path = Layer_2/42_2_push_swap
-	url = https://github.com/photocatalysta/42_2_push_swap
-	recurse = true
-
-[submodule "minitalk"]
-	path = Layer_2/42_2_minitalk
-	url = https://github.com/photocatalysta/42_2_minitalk
-	recurse = true
-
-[submodule "so_long"]
-	path = Layer_2/42_2_so_long
-	url = https://github.com/photocatalysta/42_2_so_long
-	recurse = true
-
-[submodule "minishell"]
-	path = Layer_3/42_3_minishell
-	url = https://github.com/photocatalysta/42_3_minishell
-	recurse = true
-
-[submodule "philosophers"]
-	path = Layer_3/42_3_Philosophers
-	url = https://github.com/photocatalysta/42_3_Philosophers
-	recurse = true
+[submodule "Layer_0/libft"]
+	path = Layer_0/libft
+	url = git@github.com:photocatalysta/42_0_libft.git
+	branch = main
+[submodule "Layer_1/ft_print"]
+	path = Layer_1/ft_print
+	url = git@github.com:photocatalysta/42_1_FT_Printf.git
+	branch = main
+[submodule "Layer_1/get_next_line"]
+	path = Layer_1/get_next_line
+	url = git@github.com:photocatalysta/42_1_Get_next_line.git
+	branch = main
+[submodule "Layer_2/push_swap"]
+	path = Layer_2/push_swap
+	url = git@github.com:photocatalysta/42_2_push_swap.git
+	branch = main
+[submodule "Layer_2/so_long"]
+	path = Layer_2/so_long
+	url = git@github.com:photocatalysta/42_2_so_long.git
+	branch = main
+[submodule "Layer_3/minishell"]
+	path = Layer_3/minishell
+	url = git@github.com:photocatalysta/42_3_minishell.git
+	branch = main
+[submodule "Piscine"]
+	path = Piscine
+	url = git@github.com:photocatalysta/42-Piscine.git
+	branch = main
